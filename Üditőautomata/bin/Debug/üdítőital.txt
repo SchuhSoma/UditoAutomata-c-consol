@@ -1,0 +1,19 @@
+Coca-Cola;üdítőital;0,5;250;10;8;A1
+Coca-Cola Light ;üdítőital;0,5;240;20;15;A2
+Coca-Cola Cherry;üdítőital;0,5;260;10;8;A3
+Fanta Narancs;üdítőital;0,5;240;10;10;B1
+Fanta Citrom;üdítőital;0,5;240;10;8;B2
+Cappy Alma;üdítőital;0,4;280;10;9;C1
+Cappy Narancs;üdítőital;0,4;280;10;4;C2
+Cappy Körte;üdítőital;0,4;280;10;2;C3
+Naturaqua Mentes;üdítőital;0,5;220;10;10;D1
+Naturaqua Bubis;üdítőital;0,5;220;10;10;D2
+Nestea Citrom;üdítőital;0,5;260;10;10;E1
+Nestea Barack;üdítőital;0,5;260;10;10;E2
+Nestea Menta;üdítőital;0,5;260;10;10;E3
+Monster Red;energiaital;0,4;340;20;14;F1
+Monster Green;energiaital;0,4;340;20;13;F2
+Monster Pink;energiaital;0,4;340;20;8;F3
+Monster Blue;energiaital;0,4;380;20;4;F4
+Kinley Gyömbér;üdítőital;0,5;280;10;6;G1
+Kinley Tonik;üdítőital;0,5;280;10;4;G2
